@@ -1,0 +1,16 @@
+{
+  "name": "nonomama",
+  "description": "nonomama",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
