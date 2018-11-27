@@ -15,7 +15,7 @@ var channel = "516318840666324992";//ايدي الروم
 })
 
 client.on('message', message => {
-    let prefix = 'البريفكس';
+    let prefix = 'say';
    if(message.content.startsWith('say')) {
        let args = message.content.split(' ').slice(1).join(' ');
        message.channel.send(args)
